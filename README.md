@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/0xMoku/0xMoku/main/banner.svg" width="100%" alt="0xMoku banner" />
+<img src="https://raw.githubusercontent.com/0xmoku/0xmoku/main/banner.svg" width="100%" alt="0xMoku banner" />
 
 <br />
 
